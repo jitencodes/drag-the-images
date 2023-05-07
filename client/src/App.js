@@ -94,7 +94,7 @@ const App = () => {
             <div
               {...provided.droppableProps}
               ref={provided.innerRef}
-              className={`grid grid-cols-1 md:grid-cols-2 p-5 mx-auto  md:max-w-[1200px] gap-4 ${ snapshot.isDraggingOver ? 'bg-blue-300': 'bg-gray-100'}`}
+              className={`grid grid-cols-1 p-5 mx-auto  md:max-w-[900px] gap-4 ${ snapshot.isDraggingOver ? 'bg-blue-300': 'bg-gray-100'}`}
             >
               {images.map(({id, title, description, ImgData}, index) => (
                 <Draggable key={id} draggableId={id} index={index}>
