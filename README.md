@@ -1,4 +1,9 @@
 # DRAG THE IMAGES
+## Screenshot 1
+![image](https://user-images.githubusercontent.com/86045185/236736309-0e127fb9-6781-4aaf-91e8-9df5e60c2877.png)
+## Screenshot 2
+![image](https://user-images.githubusercontent.com/86045185/236736417-75721c13-782c-4f23-9663-088ed6571c8c.png)
+
 
 ## A MERN Stack Project 
 
